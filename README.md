@@ -35,13 +35,6 @@
     ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
-## 📊 GitHub Stats
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThanhNhut13&layout=compact&theme=react" alt="Top Languages" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhNhut13&show_icons=true&theme=react" alt="NguyenThanhNhut13's GitHub Stats" height="170"/>
-</div>
-
 ## 📫 Let’s Connect!
 
 - 📧 **Email:** nguyenthanhnhut.work@gmail.com  
