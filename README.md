@@ -2,8 +2,6 @@
 
 🌟 **Final-year Software Engineering student** based in Ho Chi Minh City, Vietnam, passionate about back-end development—especially **Java Spring Boot**—and modern web technologies.
 
----
-
 ## 🛠️ Technical Skills
 
 - **Languages:**  
@@ -36,16 +34,6 @@
     ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
     ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
----
-
-## 🏆 What I Offer
-
-- Experience building full-stack applications
-- Strong problem-solving & debugging skills
-- Familiarity with design patterns & clean architecture
-- Commitment to code quality & continuous learning
-
----
 
 ## 🚀 What I’m Looking For
 
@@ -54,16 +42,12 @@ Seeking opportunities as a **Java Spring Boot Backend Developer** or **Full-stac
 - Grow through mentorship, feedback, and real-world experience
 - Work in a supportive, innovative team that values learning & personal growth
 
----
-
 ## 📊 GitHub Stats
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThanhNhut13&layout=compact&theme=react" alt="Top Languages" height="170"/>
     <img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhNhut13&show_icons=true&theme=react" alt="NguyenThanhNhut13's GitHub Stats" height="170"/>
 </div>
-
----
 
 ## 📫 Let’s Connect!
 
