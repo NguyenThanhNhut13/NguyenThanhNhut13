@@ -13,7 +13,9 @@
 - **Frameworks & Libraries:**  
     ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
     ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
     ![JPA/Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
 - **Back-end:**  
     - 🔗 **RESTful API Design & Implementation**  
     - 🛡️ **Authentication & Authorization:** Spring Security, JWT  
@@ -23,7 +25,7 @@
     - 🧪 **Unit & Integration Testing**
 
 - **Front-end:**  
-    - 💻 **Modern, Responsive UIs:** React & TypeScript  
+    - 💻 **Modern, Responsive UIs:** React & TypeScript, Bootstrap  
     - 🔌 **API Integration:** Connecting front-end apps to REST APIs
 
 - **DevOps & Tools:**  
@@ -33,10 +35,12 @@
     ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) 
     ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
     ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## 📫 Let’s Connect!
 
 - 📧 **Email:** nguyenthanhnhut.work@gmail.com  
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyenthanhnhut13)
 - 📍 **Location:** Ho Chi Minh City, Vietnam
+
