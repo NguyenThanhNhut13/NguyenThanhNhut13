@@ -35,13 +35,6 @@
     ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
-## 🚀 What I’m Looking For
-
-Seeking opportunities as a **Java Spring Boot Backend Developer** or **Full-stack Developer** to:
-- Contribute to impactful projects & solve challenging problems
-- Grow through mentorship, feedback, and real-world experience
-- Work in a supportive, innovative team that values learning & personal growth
-
 ## 📊 GitHub Stats
 
 <div>
